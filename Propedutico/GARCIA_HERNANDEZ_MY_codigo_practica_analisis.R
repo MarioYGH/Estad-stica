@@ -4,7 +4,7 @@
 # Mario Yahir García Hernández 
 # Curso propedéutico Maestría CD - Estadística
 # 11/06/2026
-
+# La Base de datos se descargo de "https://archive.ics.uci.edu/dataset/5/arrhythmia"
 # ------------------------------------------------------------
 # 1. Cargar paquetes
 # ------------------------------------------------------------
